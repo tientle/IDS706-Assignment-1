@@ -8,10 +8,10 @@ This project 1) asks for a name and prints a welcome message and 2) asks for a f
 
 ## Setup
 
-python -m venv .venv
-source .venv/bin/activate # Mac / Linux
-.venv\Scripts\activate # Windows
-pip install -r requirements.txt
+python -m venv .venv\
+source .venv/bin/activate # Mac / Linux\
+.venv\Scripts\activate # Windows\
+pip install -r requirements.txt\
 
 ## Run tests
 
