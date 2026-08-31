@@ -11,7 +11,7 @@ This project 1) asks for a name and prints a welcome message and 2) asks for a f
 python -m venv .venv\
 source .venv/bin/activate # Mac / Linux\
 .venv\Scripts\activate # Windows\
-pip install -r requirements.txt\
+pip install -r requirements.txt
 
 ## Run tests
 
